@@ -22,6 +22,7 @@ This organization is a container for various repositories that provide NuGet pac
     - [MondoCore.Azure.Configuration](#config)
     - [MondoCore.Azure.Cosmos](#cosmos)
     - [MondoCore.Azure.Keyvault](#keyvault)
+    - [MondoCore.Azure.ServiceBus](#servicebus)
     - [MondoCore.Azure.Storage](#storage)
     - [MondoCore.Azure.Storage.Queue](#queue)
 
@@ -116,6 +117,13 @@ This organization is a container for various repositories that provide NuGet pac
 #### <a href="https://github.com/MondoCore/MondoCore.Azure.Keyvault">MondoCore.Azure.Keyvault</a>
 
 > Provides a Keyvault implementation of IBlobStore
+
+<a id="servicebus" />
+
+#### <a href="https://github.com/MondoCore/MondoCore.Azure.ServiceBus">MondoCore.Azure.ServiceBus</a>
+
+> Provides an Azure ServiceBus implementation of IMessageSink
+
 
 <a id="storage" />
 
