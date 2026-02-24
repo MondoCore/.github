@@ -55,3 +55,8 @@ This organization is a container for various repositories that provide NuGet pac
 
 > Wraps around the Microsoft Appliation Config client library.
 
+
+#### <a href="https://github.com/MondoCore/MondoCore.Azure.Tables">MondoCore.Azure.Tables</a>
+
+> Access to Azure Table storage and the Cosmos Table API. Implements the ITable interface from the MondoCore.Data library.
+
