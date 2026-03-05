@@ -10,6 +10,7 @@ This organization is a container for various repositories that provide NuGet pac
 - [Common/Generic](#commongeneric)
     - [MondoCore.Collections](#collections)
     - [MondoCore.Common](#common)
+    - [MondoCore.Configuration](#configuration)
     - [MondoCore.Log](#log)
     - [MondoCore.Rest](#rest)
     - [MondoCore.Security](#security)
@@ -48,6 +49,12 @@ This organization is a container for various repositories that provide NuGet pac
 #### <a href="https://github.com/MondoCore/MondoCore.Common">MondoCore.Common</a>
 
 > Provides useful utility classes, extensions and interfaces.
+
+<a id="configuration" />
+
+#### <a href="https://github.com/MondoCore/MondoCore.Configuration">MondoCore.Configuration</a>
+
+> Create a configuration manifest to validate against configuration (app settings) files.
 
 <a id="log" />
 
